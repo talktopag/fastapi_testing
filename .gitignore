@@ -1,0 +1,9 @@
+__pycache__
+venv/
+.venv/
+.env
+archive/
+.archive/
+current_place
+Dockerfile
+docker-compose
